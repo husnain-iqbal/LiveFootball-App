@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55sp"
+    android:orientation="horizontal" >
+
+
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="wrap_content"
+        android:layout_height="55sp"
+        android:layout_marginStart="20sp"
+        android:layout_marginLeft="5sp"
+        android:textColor="#373245"
+        android:text="Chand Rat Mubarak To "
+        android:gravity="center_vertical"
+        android:textSize="20sp"
+
+        />
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="55sp"
+    android:orientation="horizontal"
+    android:layout_alignParentRight="true"
+    >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/count"
+            android:layout_marginRight="5sp"
+            android:layout_marginLeft="5sp"
+            android:textColor="#373245"
+            android:text="123456"
+            android:textSize="17sp"
+            android:gravity="center_vertical"
+         />
+        <TextView
+            android:layout_marginRight="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:textColor="#5e1ac1"
+            android:id="@+id/icon"
+            android:gravity="center_vertical"
+            />
+</LinearLayout>
+
+</RelativeLayout>

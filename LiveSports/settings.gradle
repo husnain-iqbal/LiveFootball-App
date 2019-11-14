@@ -1,0 +1,11 @@
+include ':app'
+include ':volley'
+project(':volley').projectDir = new File(rootDir, '../volley')
+//include ':app', ':..:ExoPlayer:library'
+//include ':mediaplayer'
+//project(':mediaplayer').projectDir = new File(rootDir, '../MediaPlayer')
+//include ':googlemediaframework'
+//project(':googlemediaframework').projectDir = new File(rootDir, '../googlemediaframework')
+//include ':CastCompanionLibrary'
+//project(':CastCompanionLibrary').projectDir = new File(rootDir, '../CastCompanionLibrary')
+

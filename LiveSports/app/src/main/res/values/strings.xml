@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Live Sports TV</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">Sports TV</string>
+    <string name="drawer_open"></string>
+    <string name="drawer_close"></string>
+    <string name="title_activity_channel_details"></string>
+    <string name="not_connected">Failed to connect to server, kindly check your data connection and
+        try again later</string>
+    <string name="title_activity_player"></string>
+    <string name="title_activity_explayer"></string>
+    <string name="banner_ad">ca-app-pub-3628814949671769/9708174735</string>
+    <string name="icon_arrow">&#xf178;</string>
+    <string name="icon_rate_us">&#xf164;</string>
+    <string name="icon_feedback">&#xf123;</string>
+</resources>

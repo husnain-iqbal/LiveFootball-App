@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".livesports.MainActivity">
+    <!--<item-->
+        <!--android:id="@+id/media_route_menu_item"-->
+        <!--android:title="Cast"-->
+        <!--android:icon="@drawable/refresh"-->
+        <!--app:showAsAction="always"/>-->
+</menu>
